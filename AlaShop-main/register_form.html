@@ -1,0 +1,62 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>register form</title>
+
+   <!-- custom css file link  -->
+   <link rel="stylesheet" href="style.3.css">
+
+</head>
+<body>
+   <body>
+      <section id="header">
+          <div class="logo">
+              <a href="" id="logo" ><h1>AlaShop</h1></a>
+              <img src="img/back.jpg" width="50" alt="Button Image" id="" onclick="goBack()"> 
+              
+              <script>
+                  function goBack() {
+                  window.history.back();
+                  }
+              </script>
+          </div>
+          
+          
+          <div>
+              <ul id="navbar">
+                  <li><a class="active" href="navbar/about.html">About Us</a></li>
+                  <li><a href="navbar/contacts.html">Contacts</a></li>
+                  <li><a href="navbar/help.html">Help</a></li>
+                  <li><a href="login.html"><img  width="30px" src="img/login.png"></a></li>
+                  <li><a href="navbar/cart.html"><img width="30px" src="img/cart.png"></a></li>
+              </ul>
+          </div>
+          
+      </section>
+   
+   <div class="form-container">
+
+      <form action="" method="post">
+         <h3>register now</h3>
+         
+         <input type="text" name="name" required placeholder="enter your name">
+         <input type="email" name="email" required placeholder="enter your email">
+         <input type="password" name="password" required placeholder="enter your password">
+         <input type="password" name="cpassword" required placeholder="confirm your password">
+         <select name="user_type">
+            <option value="user">user</option>
+            <option value="admin">admin</option>
+         </select>
+         <input type="submit" name="submit" value="register now" class="form-btn">
+         <p>already have an account? <a href="login.html">login now</a></p>
+      </form>
+
+   </div>
+
+</body>
+</html>
