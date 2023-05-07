@@ -9,3 +9,12 @@ Footer:
 
 YouTube Project Presentation:
 https://youtu.be/HkRFz71t-cU
+
+
+
+
+Credits:
+https://www.youtube.com/watch?v=P8YuWEkTeuE
+https://www.youtube.com/watch?v=F-6hvovxaSs&t=1147s
+https://www.youtube.com/watch?v=fC3j2U_UZrQ&t=1647s
+https://www.youtube.com/watch?v=cce_70pxbqw
