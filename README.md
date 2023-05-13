@@ -18,3 +18,8 @@ https://www.youtube.com/watch?v=P8YuWEkTeuE
 https://www.youtube.com/watch?v=F-6hvovxaSs&t=1147s
 https://www.youtube.com/watch?v=fC3j2U_UZrQ&t=1647s
 https://www.youtube.com/watch?v=cce_70pxbqw
+
+
+Tiktoks for additional points :)
+https://www.tiktok.com/@comgirls21/video/7221432993984892161
+https://www.tiktok.com/@comgirls21/video/7232533525268876545?_r=1&_t=8cH52iQxW53
